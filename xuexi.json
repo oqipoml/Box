@@ -1,4 +1,4 @@
-﻿{
+{
   "sites": [
     {
       "key": "学习园地",
@@ -8,7 +8,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0.json"
+      "ext": "https://raw.iqiq.io/oqipoml/Box/main/%e5%ad%a6%e4%b9%a0%e5%9b%ad%e5%9c%b0.json"
     },
     {
       "key": "儿童",
@@ -18,7 +18,7 @@
       "filterable": 1,
       "quickSearch": 0,
       "searchable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e5%84%bf%e7%ab%a5%e4%b9%90%e5%9b%ad.json"
+      "ext": "https://raw.iqiq.io/oqipoml/Box/main/%e5%84%bf%e7%ab%a5%e4%b9%90%e5%9b%ad.json"
     },
     {
       "key": "软件",
@@ -28,7 +28,7 @@
       "filterable": 1,
       "quickSearch": 0,
       "searchable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
+      "ext": "https://raw.iqiq.io/oqipoml/Box/main/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"
     },
     {
       "key": "美食",
@@ -38,7 +38,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"
+      "ext": "https://raw.iqiq.io/oqipoml/Box/main/%e7%be%8e%e9%a3%9f%e5%90%88%e9%9b%86.json"
     }
   ],
   "spider": "https://avatar.hitv.com/af5c7241c8c6b510b86e6fbca100c69a/3nmYEBcfvjBM.jpg",
