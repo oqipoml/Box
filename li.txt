@@ -16,7 +16,7 @@ CCTV-12,http://p.200877926.top/169l/0/aikan-api.php?id=cctv12
 CCTV-13,http://p.200877926.top/169l/0/aikan-api.php?id=cctv13
 CCTV-14,http://p.200877926.top/169l/0/aikan-api.php?id=cctv14
 CCTV-15,http://p.200877926.top/169l/0/aikan-api.php?id=cctv15
-CCTV-16,http://buffaloft.ignorelist.com:8888/rtp/239.3.1.184:8001
+CCTV-16,http://223.11.153.2:7777/rtp/239.1.1.122:8122
 CCTV-17,http://p.200877926.top/169l/0/aikan-api.php?id=cctv17
 
 CCTV-1,http://rihou.cc:567/aikan.php?id=cctv1
@@ -3746,4 +3746,4 @@ CNR-8民族之声,http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
 
 欢迎访问,https://jihulab.com/oqipoml/Box/-/raw/main/film/js.mp4
 影视前线,https://jihulab.com/oqipoml/Box/-/raw/main/film/yn.mp4
-www.oqipo.top,https://jihulab.com/oqipoml/Box/-/raw/main/film/hz.mp4
+oqipo.us.kg,https://jihulab.com/oqipoml/Box/-/raw/main/film/hz.mp4
