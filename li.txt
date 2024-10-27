@@ -50,6 +50,23 @@ CCTV-16,http://222.129.34.164:9001/rtp/239.3.1.183:8001
 CCTV-16,http://114.243.100.237:8822/rtp/239.3.1.183:8001
 CCTV-17,http://117.72.68.25:9930/migu.php?id=cctv17
 
+CCTV-1,http://p.ytelc.com/169l/0/aikan.php?id=cctv1
+CCTV-2,http://p.ytelc.com/169l/0/aikan.php?id=cctv2
+CCTV-3,http://p.ytelc.com/169l/0/aikan.php?id=cctv3
+CCTV-4,http://p.ytelc.com/169l/0/aikan.php?id=cctv4
+CCTV-5,http://p.ytelc.com/169l/0/aikan.php?id=cctv5
+CCTV-6,http://p.ytelc.com/169l/0/aikan.php?id=cctv6
+CCTV-7,http://p.ytelc.com/169l/0/aikan.php?id=cctv7
+CCTV-8,http://p.ytelc.com/169l/0/aikan.php?id=cctv8
+CCTV-9,http://p.ytelc.com/169l/0/aikan.php?id=cctv9
+CCTV-10,http://p.ytelc.com/169l/0/aikan.php?id=cctv10
+CCTV-11,http://p.ytelc.com/169l/0/aikan.php?id=cctv11
+CCTV-12,http://p.ytelc.com/169l/0/aikan.php?id=cctv12
+CCTV-13,http://p.ytelc.com/169l/0/aikan.php?id=cctv13
+CCTV-14,http://p.ytelc.com/169l/0/aikan.php?id=cctv14
+CCTV-15,http://p.ytelc.com/169l/0/aikan.php?id=cctv15
+CCTV-17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
+
 CCTV-1,http://180.188.45.80:1665/migu.php?id=cctv1
 CCTV-2,http://180.188.45.80:1665/migu.php?id=cctv2
 CCTV-3,http://180.188.45.80:1665/migu.php?id=cctv3
