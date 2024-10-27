@@ -1,22 +1,23 @@
 ┌央视频道┐,#genre#
 
-CCTV-1,http://rihou.cc:567/53057.php?id=cctv1
-CCTV-2,http://rihou.cc:567/53057.php?id=cctv2
-CCTV-3,http://rihou.cc:567/53057.php?id=cctv3
-CCTV-4,http://rihou.cc:567/53057.php?id=cctv4
-CCTV-5,http://rihou.cc:567/53057.php?id=cctv5
-CCTV-5+,http://rihou.cc:567/53057.php?id=cctv5p
+CCTV-1,http://117.72.68.25:9930/migu.php?id=cctv1
+CCTV-2,http://117.72.68.25:9930/migu.php?id=cctv2
+CCTV-3,http://117.72.68.25:9930/migu.php?id=cctv3
+CCTV-4,http://117.72.68.25:9930/migu.php?id=cctv4
+CCTV-5,http://117.72.68.25:9930/migu.php?id=cctv5
+CCTV-5+,http://117.72.68.25:9930/migu.php?id=cctv5p
 CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-CCTV-6,http://rihou.cc:567/53057.php?id=cctv6
-CCTV-7,http://rihou.cc:567/53057.php?id=cctv7
-CCTV-8,http://rihou.cc:567/53057.php?id=cctv8
-CCTV-9,http://rihou.cc:567/53057.php?id=cctv9
-CCTV-10,http://rihou.cc:567/53057.php?id=cctv10
-CCTV-11,http://rihou.cc:567/53057.php?id=cctv11
-CCTV-12,http://rihou.cc:567/53057.php?id=cctv12
-CCTV-13,http://rihou.cc:567/53057.php?id=cctv13
-CCTV-14,http://rihou.cc:567/53057.php?id=cctv14
-CCTV-15,http://rihou.cc:567/53057.php?id=cctv15
+CCTV-6,http://117.72.68.25:9930/migu.php?id=cctv6
+CCTV-7,http://117.72.68.25:9930/migu.php?id=cctv7
+CCTV-8,http://117.72.68.25:9930/migu.php?id=cctv8
+CCTV-9,http://117.72.68.25:9930/migu.php?id=cctv9
+CCTV-10,http://117.72.68.25:9930/migu.php?id=cctv10
+CCTV-11,http://117.72.68.25:9930/migu.php?id=cctv11
+CCTV-12,http://117.72.68.25:9930/migu.php?id=cctv12
+CCTV-13,http://117.72.68.25:9930/migu.php?id=cctv13
+CCTV-14,http://117.72.68.25:9930/migu.php?id=cctv14
+CCTV-15,http://117.72.68.25:9930/migu.php?id=cctv15
+
 CCTV-16,http://61.138.128.226:19901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://117.27.190.42:9998/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-16,http://220.164.192.48:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -47,7 +48,7 @@ CCTV-16,http://113.109.250.116:9999/rtp/239.77.1.76:5146
 CCTV-16,http://61.145.208.119:9090/rtp/239.77.1.76:5146
 CCTV-16,http://222.129.34.164:9001/rtp/239.3.1.183:8001
 CCTV-16,http://114.243.100.237:8822/rtp/239.3.1.183:8001
-CCTV-17,http://rihou.cc:567/53057.php?id=cctv17
+CCTV-17,http://117.72.68.25:9930/migu.php?id=cctv17
 
 CCTV-1,http://180.188.45.80:1665/migu.php?id=cctv1
 CCTV-2,http://180.188.45.80:1665/migu.php?id=cctv2
@@ -615,11 +616,11 @@ CCTV-17,http://60.220.167.223:8085/rtp/226.0.2.207:9568
 CCTV-17,http://124.165.34.127:8085/rtp/226.0.2.207:9568
 CCTV-17,http://60.223.72.20:8004/rtp/226.0.2.207:9568
 
-家庭影院,http://rihou.cc:567/53057.php?id=chcjt
-动作电影,http://rihou.cc:567/53057.php?id=chcdz
-发现之旅,http://rihou.cc:567/53057.php?id=fxzl
-老故事台,http://rihou.cc:567/53057.php?id=lgs
-中学生台,http://rihou.cc:567/53057.php?id=zxs
+发现之旅,http://117.72.68.25:9930/migu.php?id=fxzl
+央老故事,http://117.72.68.25:9930/migu.php?id=lgs
+央中学生,http://117.72.68.25:9930/migu.php?id=zxs
+家庭影院,http://117.72.68.25:9930/migu.php?id=chcjt
+动作电影,http://117.72.68.25:9930/migu.php?id=chcdz
 
 CHC家庭影院,http://221.234.220.250:4022/rtp/239.69.1.243:11100
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
@@ -1015,16 +1016,17 @@ CHC高清电影,http://enlen.vip:4022/rtp/239.200.201.34:8148
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 香港卫视,http://anren.live/HK/BSJDUFpB.m3u8
 
-东方卫视,http://rihou.cc:567/53057.php?id=dfws
-吉林卫视,http://rihou.cc:567/53057.php?id=jlws
-青海卫视,http://rihou.cc:567/53057.php?id=qhws
-陕西卫视,http://rihou.cc:567/53057.php?id=sxws
-湖北卫视,http://rihou.cc:567/53057.php?id=hubws
-江西卫视,http://rihou.cc:567/53057.php?id=jxws
-江苏卫视,http://rihou.cc:567/53057.php?id=jsws
-广东卫视,http://rihou.cc:567/53057.php?id=gdws
-湾区卫视,http://rihou.cc:567/53057.php?id=dwqws
-海南卫视,http://rihou.cc:567/53057.php?id=hinws
+东方卫视,http://117.72.68.25:9930/migu.php?id=dfws
+吉林卫视,http://117.72.68.25:9930/migu.php?id=jlws
+青海卫视,http://117.72.68.25:9930/migu.php?id=qhws
+陕西卫视,http://117.72.68.25:9930/migu.php?id=sxws
+湖北卫视,http://117.72.68.25:9930/migu.php?id=hubws
+江西卫视,http://117.72.68.25:9930/migu.php?id=jxws
+江苏卫视,http://117.72.68.25:9930/migu.php?id=jsws
+广东卫视,http://117.72.68.25:9930/migu.php?id=gdws
+
+湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws
+海南卫视,http://117.72.68.25:9930/migu.php?id=hinws
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
 东方卫视,http://180.188.45.80:1665/migu.php?id=dfws
