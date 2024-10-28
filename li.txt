@@ -1071,6 +1071,18 @@ CHC高清电影,http://enlen.vip:4022/rtp/239.200.201.34:8148
 海南卫视,http://117.72.68.25:9930/migu.php?id=hinws
 兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
 
+东方卫视,http://kxrj.site:998/123/mg.php?id=dfws
+吉林卫视,http://kxrj.site:998/123/mg.php?id=jlws
+青海卫视,http://kxrj.site:998/123/mg.php?id=qhws
+陕西卫视,http://kxrj.site:998/123/mg.php?id=sxws
+湖北卫视,http://kxrj.site:998/123/mg.php?id=hubws
+江西卫视,http://kxrj.site:998/123/mg.php?id=jxws
+江苏卫视,http://kxrj.site:998/123/mg.php?id=jsws
+广东卫视,http://kxrj.site:998/123/mg.php?id=gdws
+湾区卫视,http://kxrj.site:998/123/mg.php?id=dwqws
+海南卫视,http://kxrj.site:998/123/mg.php?id=hinws
+兵团卫视,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2022606701/timeshift.m3u8?delay=0&cdn=5202
+
 东方卫视,http://180.188.45.80:1665/migu.php?id=dfws
 吉林卫视,http://180.188.45.80:1665/migu.php?id=jlws
 青海卫视,http://180.188.45.80:1665/migu.php?id=qhws
