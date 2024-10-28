@@ -67,6 +67,25 @@ CCTV-14,http://p.ytelc.com/169l/0/aikan.php?id=cctv14
 CCTV-15,http://p.ytelc.com/169l/0/aikan.php?id=cctv15
 CCTV-17,http://p.ytelc.com/169l/0/aikan.php?id=cctv17
 
+CCTV-1,http://kxrj.site:998/123/mg.php?id=cctv1
+CCTV-2,http://kxrj.site:998/123/mg.php?id=cctv2
+CCTV-3,http://kxrj.site:998/123/mg.php?id=cctv3
+CCTV-4,http://kxrj.site:998/123/mg.php?id=cctv4
+CCTV-5,http://kxrj.site:998/123/mg.php?id=cctv5
+CCTV-5+,http://kxrj.site:998/123/mg.php?id=cctv5p
+CCTV-6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
+CCTV-6,http://kxrj.site:998/123/mg.php?id=cctv6
+CCTV-7,http://kxrj.site:998/123/mg.php?id=cctv7
+CCTV-8,http://kxrj.site:998/123/mg.php?id=cctv8
+CCTV-9,http://kxrj.site:998/123/mg.php?id=cctv9
+CCTV-10,http://kxrj.site:998/123/mg.php?id=cctv10
+CCTV-11,http://kxrj.site:998/123/mg.php?id=cctv11
+CCTV-12,http://kxrj.site:998/123/mg.php?id=cctv12
+CCTV-13,http://kxrj.site:998/123/mg.php?id=cctv13
+CCTV-14,http://kxrj.site:998/123/mg.php?id=cctv14
+CCTV-15,http://kxrj.site:998/123/mg.php?id=cctv15
+CCTV-17,http://kxrj.site:998/123/mg.php?id=cctv17
+
 CCTV-1,http://180.188.45.80:1665/migu.php?id=cctv1
 CCTV-2,http://180.188.45.80:1665/migu.php?id=cctv2
 CCTV-3,http://180.188.45.80:1665/migu.php?id=cctv3
@@ -638,6 +657,12 @@ CCTV-17,http://60.223.72.20:8004/rtp/226.0.2.207:9568
 央中学生,http://117.72.68.25:9930/migu.php?id=zxs
 家庭影院,http://117.72.68.25:9930/migu.php?id=chcjt
 动作电影,http://117.72.68.25:9930/migu.php?id=chcdz
+
+家庭影院,http://kxrj.site:998/123/mg.php?id=chcjt
+动作电影,http://kxrj.site:998/123/mg.php?id=chcdz
+发现之旅,http://kxrj.site:998/123/mg.php?id=fxzl
+老故事台,http://kxrj.site:998/123/mg.php?id=lgs
+中学生台,http://kxrj.site:998/123/mg.php?id=zxs
 
 CHC家庭影院,http://221.234.220.250:4022/rtp/239.69.1.243:11100
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
